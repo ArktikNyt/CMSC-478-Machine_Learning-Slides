@@ -1,2 +1,1 @@
-# CMSC478-Spring-2022
-Instructor: Fereydoon Vafaei
+# CMSC 478 - Machine Learning
